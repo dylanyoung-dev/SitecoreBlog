@@ -1,0 +1,36 @@
+{
+    "namespace": "Items",
+    "items" : {
+        "includes": [
+            {
+                "name": "api-key",
+                "path": "/sitecore/system/Settings/Services/API Keys/SitecoreBlogTest",
+                "scope": "singleItem"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/SitecoreBlogTest"
+            },
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/SitecoreBlogTest"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/SitecoreBlogTest"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/SitecoreBlogTest"
+            },
+            {
+                "name": "content",
+                "path": "/sitecore/content/SitecoreBlogTest"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/SitecoreBlogTest"
+            }
+        ]
+    }
+}
